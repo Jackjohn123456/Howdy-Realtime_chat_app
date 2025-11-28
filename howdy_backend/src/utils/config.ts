@@ -1,0 +1,1 @@
+export const opneAiKey = "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";
