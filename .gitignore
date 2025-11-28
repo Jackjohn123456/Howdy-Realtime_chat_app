@@ -119,3 +119,4 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 
 howdy_backend/node_modules/
+howdy_backend/node_modules/tsconfig
